@@ -1,0 +1,13 @@
+G:\Test\Euromonitor\DataFramework\bin\Debug\netcoreapp3.1\DataFramework.deps.json
+G:\Test\Euromonitor\DataFramework\bin\Debug\netcoreapp3.1\DataFramework.runtimeconfig.json
+G:\Test\Euromonitor\DataFramework\bin\Debug\netcoreapp3.1\DataFramework.runtimeconfig.dev.json
+G:\Test\Euromonitor\DataFramework\bin\Debug\netcoreapp3.1\DataFramework.dll
+G:\Test\Euromonitor\DataFramework\bin\Debug\netcoreapp3.1\DataFramework.pdb
+G:\Test\Euromonitor\DataFramework\obj\Debug\netcoreapp3.1\DataFramework.csproj.AssemblyReference.cache
+G:\Test\Euromonitor\DataFramework\obj\Debug\netcoreapp3.1\DataFramework.GeneratedMSBuildEditorConfig.editorconfig
+G:\Test\Euromonitor\DataFramework\obj\Debug\netcoreapp3.1\DataFramework.AssemblyInfoInputs.cache
+G:\Test\Euromonitor\DataFramework\obj\Debug\netcoreapp3.1\DataFramework.AssemblyInfo.cs
+G:\Test\Euromonitor\DataFramework\obj\Debug\netcoreapp3.1\DataFramework.csproj.CoreCompileInputs.cache
+G:\Test\Euromonitor\DataFramework\obj\Debug\netcoreapp3.1\DataFramework.dll
+G:\Test\Euromonitor\DataFramework\obj\Debug\netcoreapp3.1\DataFramework.pdb
+G:\Test\Euromonitor\DataFramework\obj\Debug\netcoreapp3.1\DataFramework.genruntimeconfig.cache

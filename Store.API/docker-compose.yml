@@ -1,0 +1,19 @@
+﻿version: '3.4'
+
+services:
+  msql-server:
+    image: mcr.microsoft.com/msql/server:2017-latest
+    environment: 
+        ACCEPT_EULA: 'Y'
+        SA_PASSWORD: 'EncrpttedPassword'
+        MSSQL_PID: Express
+    ports:
+    -   "433:433"
+  store.api:
+    image: ${DOCKER_REGISTRY-}storeapi
+    build:
+      context: .
+      dockerfile: Store.API\Dockerfile
+    ports:
+    -   "22968:80"
+

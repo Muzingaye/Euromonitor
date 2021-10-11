@@ -1,0 +1,13 @@
+G:\Test\Euromonitor\ServiceFramework\bin\Debug\netcoreapp3.1\ServiceFramework.deps.json
+G:\Test\Euromonitor\ServiceFramework\bin\Debug\netcoreapp3.1\ServiceFramework.dll
+G:\Test\Euromonitor\ServiceFramework\bin\Debug\netcoreapp3.1\ServiceFramework.pdb
+G:\Test\Euromonitor\ServiceFramework\bin\Debug\netcoreapp3.1\DataFramework.dll
+G:\Test\Euromonitor\ServiceFramework\bin\Debug\netcoreapp3.1\DataFramework.pdb
+G:\Test\Euromonitor\ServiceFramework\obj\Debug\netcoreapp3.1\ServiceFramework.csproj.AssemblyReference.cache
+G:\Test\Euromonitor\ServiceFramework\obj\Debug\netcoreapp3.1\ServiceFramework.GeneratedMSBuildEditorConfig.editorconfig
+G:\Test\Euromonitor\ServiceFramework\obj\Debug\netcoreapp3.1\ServiceFramework.AssemblyInfoInputs.cache
+G:\Test\Euromonitor\ServiceFramework\obj\Debug\netcoreapp3.1\ServiceFramework.AssemblyInfo.cs
+G:\Test\Euromonitor\ServiceFramework\obj\Debug\netcoreapp3.1\ServiceFramework.csproj.CoreCompileInputs.cache
+G:\Test\Euromonitor\ServiceFramework\obj\Debug\netcoreapp3.1\ServiceFramework.csproj.CopyComplete
+G:\Test\Euromonitor\ServiceFramework\obj\Debug\netcoreapp3.1\ServiceFramework.dll
+G:\Test\Euromonitor\ServiceFramework\obj\Debug\netcoreapp3.1\ServiceFramework.pdb

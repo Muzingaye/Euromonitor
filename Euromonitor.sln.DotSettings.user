@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\Muzingaye Dube\AppData\Local\Temp\JetBrains\ReSharperPlatformVs16\vAny_402d9d1a\CoverageData\_Euromonitor.-1982677423\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c9c2d8bb_002D6965_002D4e71_002Da3ce_002Db1a613e0bc5d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RepositoryTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47F2CDFB-E517-4421-9C85-D6642381BF35::.NETCoreApp,Version=v3.1::DataFramework.Test.RepositoryTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3EF075D8-805E-4792-9569-7D415B6CE112::.NETCoreApp,Version=v3.1::ServiceFramework.Test.AccountServiceTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BF2663AD-B4AE-4D01-8F7E-4BD13AF12320::.NETCoreApp,Version=v3.1::API.Test.AccountControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3EF075D8-805E-4792-9569-7D415B6CE112::.NETCoreApp,Version=v3.1::ServiceFramework.Test.ProductServicesTest.Test_GetAvailable_Products_Returns_All_Products&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BF2663AD-B4AE-4D01-8F7E-4BD13AF12320::.NETCoreApp,Version=v3.1::API.Test.BookController_Test.Test_Logout_Return_StatusCode_OK&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BF2663AD-B4AE-4D01-8F7E-4BD13AF12320::.NETCoreApp,Version=v3.1::API.Test.BookController_Test.Test_Get_All_avaibleBook_Return_List_OfBook&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BF2663AD-B4AE-4D01-8F7E-4BD13AF12320::.NETCoreApp,Version=v3.1::API.Test.BookController_Test.Test_SubscribeToBook_Return_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BF2663AD-B4AE-4D01-8F7E-4BD13AF12320::.NETCoreApp,Version=v3.1::API.Test.BookController_Test.Test_SubscribeToBook_Return_Error&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BF2663AD-B4AE-4D01-8F7E-4BD13AF12320::.NETCoreApp,Version=v3.1::API.Test.BookController_Test.Test_UnSubscribeToBook_Return_True&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
